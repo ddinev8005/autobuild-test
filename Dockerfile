@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:21-slim-buster
 
 LABEL org.opencontainers.image.description="Testting autobuild feature of Docker Desktop"
 
