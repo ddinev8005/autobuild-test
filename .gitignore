@@ -5,10 +5,5 @@ logs/
 passwords.txt
 
 #Ignoring git and cache folders
-.git
 .cache
 .zshrc
-
-#Ignoring all the markdown and class files
-*.md
-**/*.class
