@@ -1,6 +1,7 @@
 FROM openjdk:8-jdk-alpine
 
 LABEL Dimitar Dinev <dinev.mitko@gmail.com>
+LABEL org.opencontainers.image.description
 
 RUN apk add --no-cache curl tar bash procps
 
